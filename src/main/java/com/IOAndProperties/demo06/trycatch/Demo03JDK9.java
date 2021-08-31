@@ -19,7 +19,7 @@ import java.io.IOException;
         }
  */
 public class Demo03JDK9 {
-    public static void main(String[] args) throws IOException {
+/*    public static void main(String[] args) throws IOException {
         //1.创建一个字节输入流对象,构造方法中绑定要读取的数据源
         FileInputStream fis = new FileInputStream("c:\\1.jpg");
         //2.创建一个字节输出流对象,构造方法中绑定要写入的目的地
@@ -39,5 +39,5 @@ public class Demo03JDK9 {
 
         //fos.write(1);//Stream Closed
 
-    }
+    }*/
 }
